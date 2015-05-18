@@ -1,6 +1,8 @@
 [integrator](https://github.com/phuu/integrator)-match
 ===
 
+[![Join the chat at https://gitter.im/phuu/integrator-match](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/phuu/integrator-match?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > NOTE: Documentation in Progress!
 
 Part of an ambitious experiment at "fixing" integration tests.
